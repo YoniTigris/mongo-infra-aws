@@ -8,12 +8,13 @@ This project does 2 things:
 ## Usage
 
 ### Pre-requisites
-Install awscli and terraform packages.
+Install awscli, terraform and ansible packages.
 
 On MacOS:
 ```
 brew install awscli
 brew install terraform
+brew install ansible
 ```
 
 ### Automatically deploy everything for me, don't ask me much
