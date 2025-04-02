@@ -6,6 +6,13 @@ This project does 2 things:
 2. Uses `ansible` (must be 2.16 or earlier) to deploy mongodb software onto those AWS instances
 
 ## Usage
+
+### Pre-requisites
+Install awscli and terraform packages.
+On MacOS:
+1. brew install awscli
+2. brew install terraform
+
 ### Automatically deploy everything for me, don't ask me much
 
 1. Run `quick-start.sh` and provide any missing values
