@@ -9,9 +9,12 @@ This project does 2 things:
 
 ### Pre-requisites
 Install awscli and terraform packages.
+
 On MacOS:
-1. brew install awscli
-2. brew install terraform
+```
+brew install awscli
+brew install terraform
+```
 
 ### Automatically deploy everything for me, don't ask me much
 
